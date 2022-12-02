@@ -11,7 +11,7 @@ The main objective of this Web application is to provide an online product groce
 - Add products to cart
 - Order products
 - View Transactions
-● Administrator is able to:
+/ ● Administrator is able to:
 - View Products
 - Update Stock
 - Add new product
